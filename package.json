@@ -1,13 +1,13 @@
 {
-  "name": "mailing_app",
+  "name": "electronSvelteBase",
   "version": "0.0.9",
-  "description": "Logiciel de mailing",
+  "description": "Electron Base for Svelte",
   "author": "Olivier Heimerdinger",
   "license": "MIT",
   "private": true,
   "main": "./electron/main.js",
   "build": {
-    "appId": "MAILING.0.0.9",
+    "appId": "Electron Base.0.0.9",
     "mac": {
       "category": "category.administration"
     }
